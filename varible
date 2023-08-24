@@ -1,7 +1,7 @@
 class Calculator{
     public static void main(String args[]) {
         double david;
-        david=315.6
+        david=315.6;
  System.out.println(david);   }
 
 
